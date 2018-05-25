@@ -1,0 +1,16 @@
+PODS:
+  - AliyunOSSiOS (2.10.4)
+
+DEPENDENCIES:
+  - AliyunOSSiOS (from `../aliyun-oss-ios-sdk/`)
+
+EXTERNAL SOURCES:
+  AliyunOSSiOS:
+    :path: "../aliyun-oss-ios-sdk/"
+
+SPEC CHECKSUMS:
+  AliyunOSSiOS: fcd7d19b4695ae93d724f7ca44e5a76c09d81c29
+
+PODFILE CHECKSUM: ea614d57705151735c7b4690981a671d3ab17c79
+
+COCOAPODS: 1.5.0
